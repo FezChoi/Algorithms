@@ -2,4 +2,4 @@
 .vscode/*
 baekjoon/.DS_Store
 baekjoon/samsungsw/BOJ17140
-baekjoon/samsungsw/input.txt
+*.txt
