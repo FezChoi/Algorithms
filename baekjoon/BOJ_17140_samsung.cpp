@@ -150,7 +150,7 @@ void solution(int r, int c, int k) {
 
 int main() {
 	ios_base::sync_with_stdio(false);
-	// freopen("input.txt", "r", stdin);
+	// freopen("input.txt", "r", stdin); 
 
 	int r, c, k;
 	cin >> r >> c >> k;
