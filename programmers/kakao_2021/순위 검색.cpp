@@ -1,3 +1,8 @@
+/*
+    레퍼런스 참고하여 작성된 코드.
+    https://www.youtube.com/watch?v=dy4n61P8SPs&list=PL6YHvWRMtz7BhuSvZDVzaQhODpoKuaAtB&index=3
+*/
+
 #include <string>
 #include <vector>
 #include <unordered_map>
